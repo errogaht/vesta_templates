@@ -1,10 +1,17 @@
 # vesta_templates
-vesta CP config templates
 
+### What is this
 This repository contains useful config templates for [Vesta CP](https://vestacp.com)
 
 Work with vesta 0.9.8
 
+### Templates list
+
+* Drupal 7
+* Redmine
+* Laravel 5.1
+
+### Installation
 To install thoose templates just:
 
 ```sh
